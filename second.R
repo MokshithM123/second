@@ -36,7 +36,7 @@ readStudent=read.csv("/home/student/Desktop")
 
 print("Enter a new row")
 u<- readline(prompt = "EmpId")
-  n<- readline(prompt = "EmpName")
+n<- readline(prompt = "EmpName")
 m<- readline(prompt = "EmpCode")
 A<- readline(prompt = "Desig")
 s<- readline(prompt = "Dept")
